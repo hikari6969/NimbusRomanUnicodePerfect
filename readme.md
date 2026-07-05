@@ -1,4 +1,4 @@
-﻿# Nimbus Roman Unicode Perfect
+﻿# Nimbus Perfect CJK
 
 A powerful, multilingual typeface project fully built via **AI + Python** automation scripts. It seamlessly merges the classic Western font **Nimbus Roman** with the core multi-regional variants (SC/TC/JP/KR) of **Source Han Serif / Noto Serif**, completely eliminating missing characters, broken glyphs, and visual mismatches in multilingual layouts.
 
