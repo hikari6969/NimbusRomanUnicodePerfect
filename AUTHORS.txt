@@ -1,4 +1,4 @@
-﻿Nimbus Roman Unicode Perfect Authors
+﻿Nimbus Perfect CJK Authors
 
 This file commits the names of the individuals and teams who have 
 contributed to this Open Font License project. 
