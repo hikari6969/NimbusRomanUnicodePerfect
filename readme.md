@@ -24,7 +24,7 @@ This Font Software is licensed under the **SIL Open Font License, Version 1.1**.
 
 #### Copyright Notice
 
-* Copyright (c) 2026, HinataHikari69 (hinatahikari69@gmail.com), with Reserved Font Name "Nimbus Roman Unicode Perfect".
+* Copyright (c) 2026, HinataHikari69 (hinatahikari69@gmail.com), with Reserved Font Name "Nimbus Perfect CJK".
 
 * **Latin Portion**: Based on **Nimbus Roman** by URW/Ghostscript.
 
